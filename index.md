@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Meme-VZ
 
 You can use the [editor on GitHub](https://github.com/BaerJoel/Doc-MemeVZ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
