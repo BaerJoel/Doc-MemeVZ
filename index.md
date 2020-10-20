@@ -3,73 +3,6 @@
 [Image](MemeVZ3.png)
 
 
- Artifacts >  Requirements Artifact Set >  {More Requirements Artifacts} >  Software Requirements Specification >  SRS traditional
-
-<Project Name>
-
-Software Requirements Specification
-
-For <Subsystem or Feature>
-
- 
-
- 
-
-Version <1.0>
-
- 
-
- 
-
-[Note: The following template is provided for use with the Rational Unified Process. Text enclosed in square brackets and displayed in blue italics (style=InfoBlue) is included to provide guidance to the author and should be deleted before publishing the document. A paragraph entered following this style will automatically be set to normal (style=Body Text).]
-
-
-
-Revision History
-
-Date
-
-Version
-
-Description
-
-Author
-
-<dd/mmm/yy>
-
-<x.x>
-
-<details>
-
-<name>
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
 Table of Contents
 
 1.       Introduction         
@@ -138,11 +71,7 @@ Table of Contents
 Software Requirements Specification
 
 1.                  Introduction
-[The introduction of the Software Requirements Specification (SRS) should provide an overview of the entire SRS. It should include the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the SRS.]
-
-[Note: The Software Requirements Specification (SRS) captures the complete software requirements for the system, or a portion of the system.  Following is a typical SRS outline for a project using only traditional natural-language style requirements – with no use-case modeling.  It captures all requirements in a single document,  with  applicable sections inserted from the  Supplementary Specifications (which would no longer be needed).  For a template of an SRS using use-case modeling, which consists of a package containing Use-Cases of the use-case model and applicable Supplementary Specifications and other supporting information, see rup_SRS-uc.dot.]
-
-[Many different arrangements of an SRS are possible.  Refer to [IEEE830-1998] for further elaboration of these explanations, as well as other options for SRS organization.]
+The Software Requirements Specification (SRS) describes the following functions and quality requirements of the App MemeVZ in more detail.
 
 1.1     Purpose
 This SRS describes all specifications for "memeVZ". MemeVZ is a tribute to the popular SchülerVZ which was discontinued in 2013. It is a newer version for the younger generation to exchange ideas in a slightly different way. With MemeVZ we want to provide a new platform for viewing and sharing memes with people all over the world. Our goal is to reach the unreached with good qualtity content to laugh at. Everyone knows that a little laughter can cure anything.
