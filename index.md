@@ -3,70 +3,32 @@
 [Image](MemeVZ3.png)
 
 
-Table of Contents
-
-1.       Introduction         
-
-1.1     Purpose     
-
-1.2     Scope     
-
-1.3     Definitions, Acronyms and Abbreviations     
-
-1.4     References     
-
-1.5     Overview     
-
-2.       Overall Description    
-
-3.       Specific Requirements
-
-3.1     Functionality     
-
-3.1.1         <Functional Requirement One>        
-
-3.2     Usability     
-
-3.2.1         <Usability Requirement One>           
-
-3.3     Reliability     
-
-3.3.1         <Reliability Requirement One>           
-
-3.4     Performance     
-
-3.4.1         <Performance Requirement One>           
-
-3.5     Supportability     
-
-3.5.1         <Supportability Requirement One>           
-
-3.6     Design Constraints     
-
-3.6.1         <Design Constraint One>           
-
-3.7     Online User Documentation and Help System Requirements     
-
-3.8     Purchased Components     
-
-3.9     Interfaces     
-
-3.9.1         User Interfaces           
-
-3.9.2         Hardware Interfaces           
-
-3.9.3         Software Interfaces           
-
-3.9.4         Communications Interfaces           
-
-3.10     Licensing Requirements     
-
-3.11     Legal, Copyright and Other Notices     
-
-3.12     Applicable Standards     
-
-4.       Supporting Information    
-
+## Table of contents
+- [Table of contents](#table-of-contents)
+- [Introduction](#1-introduction)
+    - [Purpose](#11-purpose)
+    - [Scope](#12-scope)
+    - [Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
+    - [References](#14-references)
+    - [Overview](#15-overview)
+- [Overall Description](#2-overall-description)
+    - [Vision](#21-vision)
+    - [Use Case Diagram](#22-use-case-diagram)
+	- [Technology Stack](#23-technology-stack)
+- [Specific Requirements](#3-specific-requirements)
+    - [Functionality](#31-functionality)
+    - [Usability](#32-usability)
+    - [Reliability](#33-reliability)
+    - [Performance](#34-performance)
+    - [Supportability](#35-supportability)
+    - [Design Constraints](#36-design-constraints)
+    - [Online User Documentation and Help System Requirements](#37-on-line-user-documentation-and-help-system-requirements)
+    - [Purchased Components](#purchased-components)
+    - [Interfaces](#39-interfaces)
+    - [Licensing Requirements](#310-licensing-requirements)
+    - [Legal, Copyright And Other Notices](#311-legal-copyright-and-other-notices)
+    - [Applicable Standards](#312-applicable-standards)
+- [Supporting Information](#4-supporting-information)
 
 
 Software Requirements Specification
