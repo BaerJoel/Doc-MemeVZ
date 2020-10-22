@@ -70,19 +70,27 @@ With MemeVZ we want to provide a new platform for viewing and sharing memes with
 
 ### 2.2 	Technology Stack
 
-[This section of the SRS should describe the general factors that affect the product and its requirements.  This section does not state specific requirements.  Instead, it provides a background for those requirements, which are defined in detail in Section 3, and makes them easier to understand. Include such items as:
+General Setup:
+*   Version management: Git
+*   Repository manager: GitHub
+*   Tools: 
+*   project management: Scrum
+*   Tools: 
 
-•               product perspective
+Frontend:
+*   Framework: 
+*   Programming-languages:
+*   Buildtool: 
+*   Testframework: 
+*   IDE: 
 
-•               product functions
+Backend:
+*   Framework: 
+*   Programming-languages: 
+*   Buildtool: 
+*   Testframework: 
+*   IDE: 
 
-•             user characteristics
-
-•               constraints
-
-•               assumptions and dependencies
-
-•               requirements subsets]
 
 ## 3.                  Specific Requirements
 tbd
