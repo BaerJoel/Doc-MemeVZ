@@ -73,38 +73,40 @@ With MemeVZ we want to provide a new platform for viewing and sharing memes with
 General Setup:
 *   Version management: Git
 *   Repository manager: GitHub
-*   Tools: 
-*   project management: Scrum
+*   project management: Kanban
 *   Tools: 
 
 Frontend:
 *   Framework: 
-*   Programming-languages:
-*   Buildtool: 
-*   Testframework: 
-*   IDE: 
-
-Backend:
-*   Framework: 
 *   Programming-languages: 
 *   Buildtool: 
 *   Testframework: 
-*   IDE: 
+*   IDE: Android Studio
+
+Backend:
+*   Framework: 
+*   Programming-languages: Java 
+*   Buildtool: 
+*   Testframework: 
+*   IDE: Android Studio
 
 
 ## 3.                  Specific Requirements
-tbd
-[This section of the SRS should contain all the software requirements to a level of detail sufficient to enable designers to design a system to satisfy those requirements, and testers to test that the system satisfies those requirements.   When using use-case modeling, these requirements are captured in the Use-Cases and the applicable supplementary specifications.  If use-case modeling is not used, the outline for supplementary specifications may be inserted directly into this section, as shown below.]
-
 ### 3.1     Functionality
-tbd
-[This section describes the functional requirements of the system for those requirements which are expressed in the natural language style. For many applications, this may constitute the bulk of the SRS Package and thought should be given to the organization of this section. This section is typically organized by feature, but alternative organization methods may also be appropriate, for example, organization by user or organization by subsystem.  Functional requirements may include feature sets, capabilities, and security.
+This section explains the different use cases that can be seen in the UCD.
+The scope until December contains the following points:
+* Register/Login
+* Upload pictures
+* Show pictures
 
-Where application development tools, such as requirements tools, modeling tools, etc., are employed to capture the functionality, this section document will refer to the availability of that data, indicating the location and name of the tool that is used to capture the data.]
+#### 3.1.1	Register/Login
+Data to create a profile which can be edited later.
 
-#### 3.1.1     Functional Requirement One
-tbd
-[The requirement description.]
+#### 3.1.2	Upload pictures
+Upload images and store them in the database for a certain time.
+
+#### 3.1.3	Show pictures
+Images are displayed to other users. 
 
 ### 3.2               Usability
 tbd
