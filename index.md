@@ -53,11 +53,13 @@ This software specification applies to the whole "MemeVZ" application. As alread
 
 | Title                                                              | Date       | Publishing organization   |
 | -------------------------------------------------------------------|:----------:| ------------------------- |
-| [Common Playground Blog](memevz.wordpress.com)    | 01.10.2018 | Common Playground Team    |
+| [Common Playground Blog](http://memevz.wordpress.com)    | 01.10.2018 | Common Playground Team    |
 | [GitHub](--)              |  |  |
 
 ### 1.5     Overview
-The following chapters are about our vision and perspective, the software requirements, the demands we have, licensing and the technical realization of this project.
+With MemeVZ we want to provide a new platform for viewing and sharing memes with people all over the world. Our goal is to reach the unreached with good qualtity content to laugh at. Everyone knows that a little laughter can cure anything.
+
+“Find people that have the same kind of humor as you and you will never be alone” we say. To achieve all this we hold on to our Slogan: “Humor for humanity”.
 
 ## 2.                  Overall Description
 <img src="Use Case Diagram (2).png"/>
