@@ -43,10 +43,22 @@ In this document the usage of MemeVZ will be explained. Furthermore reliability,
 This software specification applies to the whole "MemeVZ" application. As already explained, MemeVZ is a tribute to the popular SchülerVZ which was discontinued in 2013. Share and display your favorite memes with a DH-wide community. Show what your humor is all about and make everyday life at dh a little bit funnier and amusing.
 
 ### 1.3     Definitions, Acronyms and Abbreviations
-tbd
+
+| Abbrevation | Explanation                            |
+| ----------- | -------------------------------------- |
+| SRS         | Software Requirements Specification    |
+| UC          | Use Case                               |
+| n/a         | not applicable                         |
+| tbd         | to be determined                       |
+| UCD         | overall Use Case Diagram               |
+| FAQ         | Frequently asked Questions             |
 
 ### 1.4     References
-tbd
+
+| Title                                                              | Date       | Publishing organization   |
+| -------------------------------------------------------------------|:----------:| ------------------------- |
+| [Common Playground Blog](http://commonplayground.wordpress.com)    | 18.10.2018 | Common Playground Team    |
+| [GitHub](https://github.com/nilskre/CommonPlayground)              | 18.10.2018 | Common Playground Team    |
 
 ### 1.5     Overview
 The following chapters are about our vision and perspective, the software requirements, the demands we have, licensing and the technical realization of this project.
