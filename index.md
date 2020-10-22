@@ -12,7 +12,6 @@
     - [References](#14-references)
     - [Overview](#15-overview)
 - [Overall Description](#2-overall-description)
-    - [Vision](#21-vision)
     - [Use Case Diagram](#22-use-case-diagram)
 	- [Technology Stack](#23-technology-stack)
 - [Specific Requirements](#3-specific-requirements)
