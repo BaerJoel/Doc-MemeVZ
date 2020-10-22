@@ -47,18 +47,14 @@ This software specification applies to the whole "MemeVZ" application. As alread
 | Abbrevation | Explanation                            |
 | ----------- | -------------------------------------- |
 | SRS         | Software Requirements Specification    |
-| UC          | Use Case                               |
-| n/a         | not applicable                         |
-| tbd         | to be determined                       |
-| UCD         | overall Use Case Diagram               |
 | FAQ         | Frequently asked Questions             |
 
 ### 1.4     References
 
 | Title                                                              | Date       | Publishing organization   |
 | -------------------------------------------------------------------|:----------:| ------------------------- |
-| [Common Playground Blog](http://commonplayground.wordpress.com)    | 18.10.2018 | Common Playground Team    |
-| [GitHub](https://github.com/nilskre/CommonPlayground)              | 18.10.2018 | Common Playground Team    |
+| [Common Playground Blog](memevz.wordpress.com)    | 01.10.2018 | Common Playground Team    |
+| [GitHub](--)              |  |  |
 
 ### 1.5     Overview
 The following chapters are about our vision and perspective, the software requirements, the demands we have, licensing and the technical realization of this project.
