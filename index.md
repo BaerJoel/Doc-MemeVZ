@@ -47,22 +47,30 @@ This software specification applies to the whole "MemeVZ" application. As alread
 | Abbrevation | Explanation                            |
 | ----------- | -------------------------------------- |
 | SRS         | Software Requirements Specification    |
-| FAQ         | Frequently asked Questions             |
+| UC          | Use Case                               |
+| n/a         | not applicable                         |
+| tbd         | to be determined                       |
+| UCD         | overall Use Case Diagram               |
+
 
 ### 1.4     References
 
 | Title                                                              | Date       | Publishing organization   |
 | -------------------------------------------------------------------|:----------:| ------------------------- |
-| [Common Playground Blog](http://memevz.wordpress.com)    | 01.10.2018 | Common Playground Team    |
-| [GitHub](--)              |  |  |
+| [MemeVZ Blog](http://memevz.wordpress.com)    | 01.10.2020 | Common Playground Team    |
+| [GitHub](https://github.com/BaerJoel/MemeVZ-Pink-)              | 01.10.2020 |  |
 
 ### 1.5     Overview
 With MemeVZ we want to provide a new platform for viewing and sharing memes with people all over the world. Our goal is to reach the unreached with good qualtity content to laugh at. Everyone knows that a little laughter can cure anything.
 
 “Find people that have the same kind of humor as you and you will never be alone” we say. To achieve all this we hold on to our Slogan: “Humor for humanity”.
 
-## 2.                  Overall Description
+## 2.           Overall Description
+### 2.1 	Use Case Diagram
 <img src="Use Case Diagram (2).png"/>
+
+### 2.3 	Technology Stack
+
 [This section of the SRS should describe the general factors that affect the product and its requirements.  This section does not state specific requirements.  Instead, it provides a background for those requirements, which are defined in detail in Section 3, and makes them easier to understand. Include such items as:
 
 •               product perspective
@@ -78,17 +86,21 @@ With MemeVZ we want to provide a new platform for viewing and sharing memes with
 •               requirements subsets]
 
 ## 3.                  Specific Requirements
+tbd
 [This section of the SRS should contain all the software requirements to a level of detail sufficient to enable designers to design a system to satisfy those requirements, and testers to test that the system satisfies those requirements.   When using use-case modeling, these requirements are captured in the Use-Cases and the applicable supplementary specifications.  If use-case modeling is not used, the outline for supplementary specifications may be inserted directly into this section, as shown below.]
 
 ### 3.1     Functionality
+tbd
 [This section describes the functional requirements of the system for those requirements which are expressed in the natural language style. For many applications, this may constitute the bulk of the SRS Package and thought should be given to the organization of this section. This section is typically organized by feature, but alternative organization methods may also be appropriate, for example, organization by user or organization by subsystem.  Functional requirements may include feature sets, capabilities, and security.
 
 Where application development tools, such as requirements tools, modeling tools, etc., are employed to capture the functionality, this section document will refer to the availability of that data, indicating the location and name of the tool that is used to capture the data.]
 
 #### 3.1.1     Functional Requirement One
+tbd
 [The requirement description.]
 
 ### 3.2               Usability
+tbd
 [This section should include all of those requirements that affect usability. For example,
 
 •               specify the required training time for a normal users and a power user to become productive at particular operations
@@ -98,9 +110,11 @@ Where application development tools, such as requirements tools, modeling tools,
 •               specify requirement to conform to common usability standards, such as IBM’s CUA standards Microsoft’s GUI standards]
 
 #### 3.2.1          Usability Requirement One
+tbd
 [The requirement description goes here.]
 
 ### 3.3     Reliability
+tbd
 [Requirements for reliability of the system should be specified here. Some suggestions follow:
 
 •               Availability—specify the percentage of time available ( xx.xx%), hours of use, maintenance access, degraded mode operations, etc.
@@ -116,9 +130,11 @@ Where application development tools, such as requirements tools, modeling tools,
 •               Bugs or Defect Rate—categorized in terms of minor, significant, and critical bugs: the requirement(s) must define what is meant by a “critical” bug; for example, complete loss of data or a complete inability to use certain parts of the system’s functionality.]
 
 #### 3.3.1          <Reliability Requirement One>
+tbd
 [The requirement description.]
 
 ### 3.4     Performance
+tbd
 [The system’s performance characteristics should be outlined in this section. Include specific response times. Where applicable, reference related Use Cases by name.
 
 •               response time for a transaction (average, maximum)
@@ -132,48 +148,63 @@ Where application development tools, such as requirements tools, modeling tools,
 •               resource utilization, such as memory, disk, communications, etc.
 
 #### 3.4.1          <Performance Requirement One>
+tbd
 [The requirement description goes here.]
 
 ### 3.5     Supportability
+tbd
 [This section indicates any requirements that will enhance the supportability or maintainability of the system being built, including coding standards, naming conventions, class libraries, maintenance access, maintenance utilities.]
 
 #### 3.5.1          <Supportability Requirement One>
+tbd
 [The requirement description goes here.]
 
 ### 3.6     Design Constraints
+tbd
 [This section should indicate any design constraints on the system being built. Design constraints represent design decisions that have been mandated and must be adhered to.  Examples include software languages, software process requirements, prescribed use of developmental tools, architectural and design constraints, purchased components, class libraries, etc.]
 
 #### 3.6.1          <Design Constraint One>
+tbd
 [The requirement description goes here.]
 
 ### 3.7     On-line User Documentation and Help System Requirements
+tbd
 [Describes the requirements, if any, for on-line user documentation, help systems, help about notices, etc.]
 
 ### 3.8     Purchased Components
+tbd
 [This section describes any purchased components to be used with the system, any applicable licensing or usage restrictions, and any associated compatibility and interoperability or interface standards.]
 
 ### 3.9     Interfaces
+tbd
 [This section defines the interfaces that must be supported by the application. It should contain adequate specificity, protocols, ports and logical addresses, etc. so that the software can be developed and verified against the interface requirements.]
 
 #### 3.9.1          User Interfaces
+tbd
 [Describe the user interfaces that are to be implemented by the software.]
 
 #### 3.9.2          Hardware Interfaces
+tbd
 [This section defines any hardware interfaces that are to be supported by the software, including logical structure, physical addresses, expected behavior, etc. ]
 
 #### 3.9.3          Software Interfaces
+tbd
 [This section describes software interfaces to other components of the software system. These may be purchased components, components reused from another application or components being developed for subsystems outside of the scope of this SRS but with which this software application must interact.]
 
 #### 3.9.4          Communications Interfaces
+tbd
 [Describe any communications interfaces to other systems or devices such as local area networks, remote serial devices, etc.]
 
 ### 3.10     Licensing Requirements
+tbd
 [Defines any licensing enforcement requirements or other usage restriction requirements that are to be exhibited by the software.]
 
 ### 3.11     Legal, Copyright, and Other Notices
+tbd
 [This section describes any necessary legal disclaimers, warranties, copyright notices, patent notice, wordmark, trademark, or logo compliance issues for the software.]
 
 ### 3.12     Applicable Standards
+tbd
 [This section describes by reference any applicable standard and the specific sections of any such standards which apply to the system being described. For example, this could include legal, quality and regulatory standards, industry standards for usability, interoperability, internationalization, operating system compliance, etc.]
 
 ## 4.                  Supporting Information
