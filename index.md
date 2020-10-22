@@ -54,7 +54,7 @@ tbd
 The following chapters are about our vision and perspective, the software requirements, the demands we have, licensing and the technical realization of this project.
 
 2.                  Overall Description
-<img src="Use Case Diagram (1).png"/>
+<img src="Use Case Diagram (2).png"/>
 [This section of the SRS should describe the general factors that affect the product and its requirements.  This section does not state specific requirements.  Instead, it provides a background for those requirements, which are defined in detail in Section 3, and makes them easier to understand. Include such items as:
 
 •               product perspective
