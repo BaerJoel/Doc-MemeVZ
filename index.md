@@ -56,8 +56,8 @@ This software specification applies to the whole "MemeVZ" application. As alread
 
 | Title                                                              | Date       | Publishing organization   |
 | -------------------------------------------------------------------|:----------:| ------------------------- |
-| [MemeVZ Blog](http://memevz.wordpress.com)    | 01.10.2020 | Common Playground Team    |
-| [GitHub](https://github.com/BaerJoel/MemeVZ-Pink-)              | 01.10.2020 |  |
+| [MemeVZ Blog](http://memevz.wordpress.com)    | 01.10.2020 | MemeVZ Team   |
+| [GitHub](https://github.com/BaerJoel/MemeVZ-Pink-)              | 01.10.2020 | MemeVZ Team |
 
 ### 1.5     Overview
 With MemeVZ we want to provide a new platform for viewing and sharing memes with people all over the world. Our goal is to reach the unreached with good qualtity content to laugh at. Everyone knows that a little laughter can cure anything.
@@ -70,25 +70,15 @@ With MemeVZ we want to provide a new platform for viewing and sharing memes with
 
 ### 2.2 	Technology Stack
 
-General Setup:
+Project Managment:
 *   Version management: Git
 *   Repository manager: GitHub
-*   project management: Kanban
-*   Tools: 
+*   project management: JIRA - Kanban
 
-Frontend:
-*   Framework: 
-*   Programming-languages: 
-*   Buildtool: 
-*   Testframework: 
-*   IDE: Android Studio
+IDE:
+*   Android Studio (Based on Android Studio)
 
-Backend:
-*   Framework: 
-*   Programming-languages: Java 
-*   Buildtool: 
-*   Testframework: 
-*   IDE: Android Studio
+*   Testing:
 
 
 ## 3.                  Specific Requirements
@@ -98,6 +88,7 @@ The scope until December contains the following points:
 * Register/Login
 * Upload pictures
 * Show pictures
+* Swipe picture
 
 #### 3.1.1	Register/Login
 Data to create a profile which can be edited later.
@@ -108,57 +99,29 @@ Upload images and store them in the database for a certain time.
 #### 3.1.3	Show pictures
 Images are displayed to other users. 
 
+#### 3.1.3	Swipe picture
+The Swipe function allows the evaluation of memes (Tinder).
+
 ### 3.2               Usability
-tbd
-[This section should include all of those requirements that affect usability. For example,
+MemeVZ should be a young social media platform, which are platforms like Facebook/Twitter and Tinder in one. These sites have been active for years, so we believe that our site is user friendly and easy to understand.
 
-•               specify the required training time for a normal users and a power user to become productive at particular operations
+#### 3.2.1	No practice necessary
+Our goal is to make the app as easy as possible to get a good feeling directly if you use it.
 
-•               specify measurable task times for typical tasks or base the new system’s usability requirements on other systems that the users know and like
+#### 3.2.1	tbd
 
-•               specify requirement to conform to common usability standards, such as IBM’s CUA standards Microsoft’s GUI standards]
-
-#### 3.2.1          Usability Requirement One
-tbd
-[The requirement description goes here.]
 
 ### 3.3     Reliability
+We assume that the app will run permanently.
+
+#### 3.3.1          tbd
 tbd
-[Requirements for reliability of the system should be specified here. Some suggestions follow:
-
-•               Availability—specify the percentage of time available ( xx.xx%), hours of use, maintenance access, degraded mode operations, etc.
-
-•               Mean Time Between Failures (MTBF) — this is usually specified in hours, but it could also be specified in terms of days, months or years.
-
-•               Mean Time To Repair (MTTR)—how long is the system allowed to be out of operation after it has failed?
-
-•               Accuracy—specify precision (resolution) and accuracy (by some known standard) that is required in the system’s output.
-
-•               Maximum Bugs or Defect Rate—usually expressed in terms of bugs per thousand of lines of code (bugs/KLOC) or bugs per function-point( bugs/function-point).
-
-•               Bugs or Defect Rate—categorized in terms of minor, significant, and critical bugs: the requirement(s) must define what is meant by a “critical” bug; for example, complete loss of data or a complete inability to use certain parts of the system’s functionality.]
-
-#### 3.3.1          <Reliability Requirement One>
-tbd
-[The requirement description.]
 
 ### 3.4     Performance
-tbd
-[The system’s performance characteristics should be outlined in this section. Include specific response times. Where applicable, reference related Use Cases by name.
+#### 3.4.1          App perfomance
+The general goal when it comes to the performance of our app is that all Android phones (Android 8.1 Oreo) play the app smoothly and the posted pictures are displayed in an appropriate time. 
 
-•               response time for a transaction (average, maximum)
-
-•               throughput, for example, transactions per second
-
-•               capacity, for example, the number of customers or transactions the system can accommodate
-
-•               degradation modes (what is the acceptable mode of operation when the system has been degraded in some manner)
-
-•               resource utilization, such as memory, disk, communications, etc.
-
-#### 3.4.1          <Performance Requirement One>
-tbd
-[The requirement description goes here.]
+#### 3.4.2          tbd
 
 ### 3.5     Supportability
 tbd
@@ -169,12 +132,14 @@ tbd
 [The requirement description goes here.]
 
 ### 3.6     Design Constraints
-tbd
-[This section should indicate any design constraints on the system being built. Design constraints represent design decisions that have been mandated and must be adhered to.  Examples include software languages, software process requirements, prescribed use of developmental tools, architectural and design constraints, purchased components, class libraries, etc.]
+Our goal is to create a simple user-friendly app. This should be possible through a simple and straightforward design. 
 
-#### 3.6.1          <Design Constraint One>
-tbd
-[The requirement description goes here.]
+The supported Platforms will be:
+Android 8.1 and higher
+Java ? and higher
+
+#### 3.6.1          Minimalistic
+A simple design that everyone understand. That only works if you think minimalist.
 
 ### 3.7     On-line User Documentation and Help System Requirements
 tbd
