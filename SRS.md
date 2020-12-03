@@ -64,7 +64,7 @@ With MemeVZ we want to provide a new platform for viewing and sharing memes with
 
 ## 2.           Overall Description
 ### 2.1 	Use Case Diagram
-<img src="Use Case Diagram (4).png"/>
+<img src="UseCaseDiagram"/>
 
 ### 2.2 	Technology Stack
 
