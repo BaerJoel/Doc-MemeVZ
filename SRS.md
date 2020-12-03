@@ -71,7 +71,7 @@ With MemeVZ we want to provide a new platform for viewing and sharing memes with
 Project Managment:
 *   Version management: Git
 *   Repository manager: GitHub
-*   project management: JIRA - Kanban
+*   project management: JIRA - Kanban/Scrum
 
 IDE:
 *   Android Studio (Based on Android Studio)
@@ -112,14 +112,8 @@ Our goal is to make the app as easy as possible to get a good feeling directly i
 ### 3.3     Reliability
 We assume that the app will run permanently.
 
-#### 3.3.1          tbd
-tbd
-
 ### 3.4     Performance
-#### 3.4.1          App perfomance
 The general goal when it comes to the performance of our app is that all Android phones (Android 8.1 Oreo) play the app smoothly and the posted pictures are displayed in an appropriate time. 
-
-#### 3.4.2          tbd
 
 ### 3.5     Supportability
 tbd
