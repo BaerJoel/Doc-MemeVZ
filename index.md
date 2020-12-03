@@ -1,7 +1,5 @@
 ## Meme-VZ
 <img src="MemeVZ3.png"/>
-[Image](MemeVZ3.png)
-
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
