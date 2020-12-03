@@ -1,5 +1,5 @@
 ## Meme-VZ
-<img src="memevzlogo new.png"/>
+<img src="MemeVZLogoNew.png"/>
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
