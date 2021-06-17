@@ -160,12 +160,10 @@ Our app has the following pages:
 * Profile 
 	
 #### 3.9.2          Hardware Interfaces
-tbd
-[This section defines any hardware interfaces that are to be supported by the software, including logical structure, physical addresses, expected behavior, etc. ]
+n/a
 
 #### 3.9.3          Software Interfaces
-tbd
-[This section describes software interfaces to other components of the software system. These may be purchased components, components reused from another application or components being developed for subsystems outside of the scope of this SRS but with which this software application must interact.]
+Currently the app runs with Android version 8.1 and higher .
 
 #### 3.9.4          Communications Interfaces
 tbd
