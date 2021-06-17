@@ -64,10 +64,13 @@ With MemeVZ we want to provide a new platform for viewing and sharing memes with
 
 ## 2.           Overall Description
 ### 2.1 	Use Case Diagram
+
 First semester (Version 1):
+
 <img src="UseCaseDiagram.png"/>
 
 Second semester (Version 2):
+
 <img src="UseCaseDiagramV2.png"/>
 
 ### 2.2 	Technology Stack
@@ -150,9 +153,12 @@ tbd
 [This section defines the interfaces that must be supported by the application. It should contain adequate specificity, protocols, ports and logical addresses, etc. so that the software can be developed and verified against the interface requirements.]
 
 #### 3.9.1          User Interfaces
-tbd
-[Describe the user interfaces that are to be implemented by the software.]
-
+Our app has the following pages:
+* Login
+* Register
+* Meme like/dislike
+* Profile 
+	
 #### 3.9.2          Hardware Interfaces
 tbd
 [This section defines any hardware interfaces that are to be supported by the software, including logical structure, physical addresses, expected behavior, etc. ]
@@ -178,12 +184,4 @@ tbd
 [This section describes by reference any applicable standard and the specific sections of any such standards which apply to the system being described. For example, this could include legal, quality and regulatory standards, industry standards for usability, interoperability, internationalization, operating system compliance, etc.]
 
 ## 4.                  Supporting Information
-[The supporting information makes the SRS easier to use.  It includes:
-
-•               Table of contents
-
-•             Index
-
-•               Appendices
-
-These may include use-case storyboards or user-interface prototypes. When appendices are included, the SRS should explicitly state whether or not the appendices are to be considered part of the requirements.]
+For further information please contact us via our homepage.
