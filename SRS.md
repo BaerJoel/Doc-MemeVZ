@@ -67,11 +67,11 @@ With MemeVZ we want to provide a new platform for viewing and sharing memes with
 
 First semester (Version 1):
 
-<img src="UseCaseDiagram.png"/>
+<img src="UseCaseDiagram.png" width="500"/>
 
 Second semester (Version 2):
 
-<img src="UseCaseDiagramV2.png"/>
+<img src="UseCaseDiagramV2.png" width="500"/>
 
 ### 2.2 	Technology Stack
 
