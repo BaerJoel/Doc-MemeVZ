@@ -141,16 +141,13 @@ Java ? and higher
 A simple design that everyone understand. That only works if you think minimalist.
 
 ### 3.7     On-line User Documentation and Help System Requirements
-tbd
-[Describes the requirements, if any, for on-line user documentation, help systems, help about notices, etc.]
+n/a
 
 ### 3.8     Purchased Components
-tbd
-[This section describes any purchased components to be used with the system, any applicable licensing or usage restrictions, and any associated compatibility and interoperability or interface standards.]
+n/a
 
 ### 3.9     Interfaces
-tbd
-[This section defines the interfaces that must be supported by the application. It should contain adequate specificity, protocols, ports and logical addresses, etc. so that the software can be developed and verified against the interface requirements.]
+n/a
 
 #### 3.9.1          User Interfaces
 Our app has the following pages:
@@ -166,20 +163,16 @@ n/a
 Currently the app runs with Android version 8.1 and higher .
 
 #### 3.9.4          Communications Interfaces
-tbd
-[Describe any communications interfaces to other systems or devices such as local area networks, remote serial devices, etc.]
+n/a
 
 ### 3.10     Licensing Requirements
-tbd
-[Defines any licensing enforcement requirements or other usage restriction requirements that are to be exhibited by the software.]
+n/a
 
 ### 3.11     Legal, Copyright, and Other Notices
-tbd
-[This section describes any necessary legal disclaimers, warranties, copyright notices, patent notice, wordmark, trademark, or logo compliance issues for the software.]
+n/a
 
 ### 3.12     Applicable Standards
-tbd
-[This section describes by reference any applicable standard and the specific sections of any such standards which apply to the system being described. For example, this could include legal, quality and regulatory standards, industry standards for usability, interoperability, internationalization, operating system compliance, etc.]
+n/a
 
 ## 4.                  Supporting Information
 For further information please contact us via our homepage.
